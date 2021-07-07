@@ -13,22 +13,21 @@ _
 
 ## PLAN OPERATIVO INSTITUCIONAL
 
-* Aplicativo multiperfiles (14 perfiles)
-* Aplicativo Mutiusuarios (aprox 70 usuarios)
+* Aplicativo multiperfiles y multiusurio (14 perfiles, aprox 70 usuarios)
 * Cuenta con 4 menus
-* Por año se contaba con diferentes Actividades, y diferentes metas incluidas en las actividades
+* Por año se programan diferentes Actividades, y diferentes metas incluidas en las actividades
 
 ### ACTIVIDADES
 
-* Mediante filtro de obtenia la visulizacion la programación metas presupuestales y fisicas, asi como su ejecución, en las diferentes metas del programa.
-* Se puede observar detalle de programación presupuestal y fisica.
+* Mediante filtro de obtenia la visualizacion la programación metas presupuestales y fisicas, asi como su ejecución, en las diferentes metas del programa.
+* Se puede observar detalle de programación presupuestal y fisica. _(Imagen)_
 * Registro de ejecucion de metas fisicas (para las disponibles, ya que algunas metas fisicas eran leidas del sistema principal, asi como tambien las metas presupuestales referente a programacion y ejecucion)
-* Se visualiza total de todas las metas disponible (Fisica y presupuestal)
-* Se visualiza grafico de ejecucion presupuestal mensualmente por año (No se llegó a culminar el modulo por otras actividades solicitadas en la gerencia)
+* Se visualiza total de todas las metas disponible (Fisica y presupuestal) _(Imagen)_
+* Se visualiza grafico de ejecucion presupuestal mensualmente por año (No se llegó a culminar el modulo por otras actividades solicitadas en la gerencia) _(Imagen)_
 
 ### POI MENSUAL
 
-* Se observa las actividades realizadas por el personal de manera mensual, registrando LOGROS, PROBLEMAS Y MEDIDAS CORRECTIVAS.
+* Se observa las actividades realizadas por el personal de manera mensual, registrando LOGROS, PROBLEMAS Y MEDIDAS CORRECTIVAS. _(Imagen)_
 * Opcion de registro para actividades complementarias que no estaban programadas.
 
 ### ACCESO
@@ -38,7 +37,7 @@ _
 
 ### REPORTE
 
-* Se visualiza a manera de pdf las actividades del programa y sus metas respetivas, referente a programación y ejecucion de las metas.
+* Se visualiza a manera de pdf las actividades del programa y sus metas respetivas, referente a programación y ejecucion de las metas. _(Imagen)_
 * Visualización de las actividades registradas mensualmente, asi como tambien las actividades extras no programadas.
 
 ### TECNOLOGIA UTILIZADA
