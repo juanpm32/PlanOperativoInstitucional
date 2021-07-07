@@ -1,8 +1,8 @@
 # PlanOperativoInstitucional (MINISTERIO DE TRABAJO)
 
 _(Imágenes con información referencial)_
-_Desarrollo sin equipo
-_
+_Desarrollo sin equipo_
+
 ![image](https://user-images.githubusercontent.com/14944400/116321955-b63c7500-a780-11eb-89a3-362cd0699407.png)
 
 ![image](https://user-images.githubusercontent.com/14944400/116321980-bfc5dd00-a780-11eb-9dd1-850912ee12ff.png)
